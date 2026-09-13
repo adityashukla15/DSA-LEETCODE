@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,9 +17,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
