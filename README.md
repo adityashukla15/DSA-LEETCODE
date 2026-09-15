@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0018-4sum) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
