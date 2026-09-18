@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -73,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
