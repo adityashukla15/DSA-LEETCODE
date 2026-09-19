@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0056-merge-intervals) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
