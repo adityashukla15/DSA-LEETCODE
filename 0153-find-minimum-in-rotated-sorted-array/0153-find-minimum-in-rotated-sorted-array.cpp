@@ -10,11 +10,6 @@ public:
                 ans=min(ans,nums[low]);
                 break;
             }
-
-            if(nums[low]==nums[mid]&& nums[mid]==nums[high]){
-                low++,high--;
-                continue;
-            }
             else if(nums[low]<=nums[mid]){
                 ans=min(ans,nums[low]);
                 low=mid+1;
