@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
 |  |
 | ------- |
