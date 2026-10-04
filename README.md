@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
 | [1552-magnetic-force-between-two-balls](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Newton's Method
 |  |
