@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
