@@ -1,36 +1,46 @@
 class Solution {
-public:
 
-int findmax(vector<int>&v){
-    int maxi=INT_MIN;
-    int n=v.size();
-    for(int i=0;i<n;i++){
-        maxi=max(maxi,v[i]);
-    }
-    return maxi;
-}
+private:
 
-long long calculateTotalhours(vector<int>&v,int hours){
-    long long totalH=0;
-    int n=v.size();
-    for(int i=0;i<n;i++){
-        totalH += ceil((double)v[i] / (double)hours);
-    }
-    return totalH;
-}
-    int minEatingSpeed(vector<int>& piles, int h) {
-        int n=piles.size();
-        int low=1,high=findmax(piles);
-        while(low<=high){
-            int mid=(low+high)/2;
-            long long totalH=calculateTotalhours(piles,mid);
-            if(totalH<=h){
-                high=mid-1;
-            }
-            else{
-                low=mid+1;
+    bool canFinish(vector<int>& piles, int speed, int h) {
+
+        long long hours = 0;
+
+        for (int pile : piles) {
+
+            hours += (pile + speed - 1) / speed;
+
+            if (hours > h) {
+                return false;
             }
         }
+
+        return true;
+    }
+
+public:
+
+    int minEatingSpeed(vector<int>& piles, int h) {
+
+        int low = 1;
+        int high = *max_element(piles.begin(), piles.end());
+
+        while (low <= high) {
+
+            int mid = low + (high - low) / 2;
+
+            if (canFinish(piles, mid, h)) {
+
+                // mid works, but maybe smaller speed also works
+                high = mid - 1;
+            }
+            else {
+
+                // mid is too slow
+                low = mid + 1;
+            }
+        }
+
         return low;
     }
 };
