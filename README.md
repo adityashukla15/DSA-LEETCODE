@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-append-k-integers-with-minimal-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
 | ------- |
