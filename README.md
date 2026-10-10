@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2195-append-k-integers-with-minimal-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2951-find-the-peaks](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2951-find-the-peaks) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
@@ -198,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0852-peak-index-in-a-mountain-array) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
