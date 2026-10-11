@@ -206,3 +206,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2951-find-the-peaks](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
+
+<!-- COMMITDSA_START -->
+# DSA Portfolio
+
+Welcome to my DSA solutions portfolio! This repository contains my solved problems on LeetCode and GeeksforGeeks, synchronized automatically using [CommitDSA](https://github.com/aprshubh/CommitDSA).
+
+## Statistics
+
+| Platform | Total Solved | Easy | Medium | Hard | Basic/School |
+| --- | --- | --- | --- | --- | --- |
+| LeetCode | 0 | 0 | 0 | 0 | - |
+| GeeksforGeeks | 1 | 0 | 0 | 0 | 1 |
+| **Total** | **1** | **0** | **0** | **0** | **1** |
+
+## Solved Problems
+
+| # | Problem | Platform | Difficulty | Language | Code |
+| --- | --- | --- | --- | --- | --- |
+| 1 | [First Occurence](https://practice.geeksforgeeks.org/problems/implement-strstr/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstOccurence.cpp) |
+<!-- COMMITDSA_END -->
