@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -205,6 +206,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2951-find-the-peaks) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
 
 <!-- COMMITDSA_START -->
