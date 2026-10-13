@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
@@ -218,11 +220,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
 
 <!-- COMMITDSA_START -->
