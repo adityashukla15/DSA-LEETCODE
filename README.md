@@ -242,8 +242,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 20 | 1 | 13 | 0 | 6 |
-| **Total** | **20** | **1** | **13** | **0** | **6** |
+| GeeksforGeeks | 21 | 1 | 14 | 0 | 6 |
+| **Total** | **21** | **1** | **14** | **0** | **6** |
 
 ## Solved Problems
 
@@ -255,18 +255,19 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 4 | [Count Digits in Number](https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_CountDigitsInNumber.cpp) |
 | 5 | [Decreasing Increasing Pattern](https://practice.geeksforgeeks.org/problems/print-pattern3549/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_DecreasingIncreasingPattern.cpp) |
 | 6 | [First n Fibonacci using Recursion](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FirstNFibonacciUsingRecursion.cpp) |
-| 7 | [Longest Word](https://practice.geeksforgeeks.org/problems/display-longest-name0853/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_LongestWord.cpp) |
-| 8 | [Nth Fibonacci Using Recursion](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_NthFibonacciUsingRecursion.cpp) |
-| 9 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_PowerUsingRecursion.cpp) |
-| 10 | [Raise to Power of Its Own Reverse](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RaiseToPowerOfItsOwnReverse.cpp) |
-| 11 | [Recursively Sum n Numbers](https://practice.geeksforgeeks.org/problems/recursively-sum-n-numbers/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RecursivelySumNNumbers.cpp) |
-| 12 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RemoveVowels.cpp) |
-| 13 | [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SubsetSums.cpp) |
-| 14 | [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_TowerOfHanoi.cpp) |
-| 15 | [1 to n Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/1_ToNWithoutLoop.cpp) |
-| 16 | [Convert String to Lower Case](https://practice.geeksforgeeks.org/problems/convert-string-to-lowercase/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ConvertStringToLowerCase.cpp) |
-| 17 | [Even Positioned Characters](https://practice.geeksforgeeks.org/problems/for-loop-2/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_EvenPositionedCharacters.cpp) |
-| 18 | [First Occurence](https://practice.geeksforgeeks.org/problems/implement-strstr/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstOccurence.cpp) |
-| 19 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PrintNTo1WithoutLoop.cpp) |
-| 20 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RemoveSpaces.cpp) |
+| 7 | [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FriendsPairingProblem.cpp) |
+| 8 | [Longest Word](https://practice.geeksforgeeks.org/problems/display-longest-name0853/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_LongestWord.cpp) |
+| 9 | [Nth Fibonacci Using Recursion](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_NthFibonacciUsingRecursion.cpp) |
+| 10 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_PowerUsingRecursion.cpp) |
+| 11 | [Raise to Power of Its Own Reverse](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RaiseToPowerOfItsOwnReverse.cpp) |
+| 12 | [Recursively Sum n Numbers](https://practice.geeksforgeeks.org/problems/recursively-sum-n-numbers/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RecursivelySumNNumbers.cpp) |
+| 13 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RemoveVowels.cpp) |
+| 14 | [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SubsetSums.cpp) |
+| 15 | [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_TowerOfHanoi.cpp) |
+| 16 | [1 to n Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/1_ToNWithoutLoop.cpp) |
+| 17 | [Convert String to Lower Case](https://practice.geeksforgeeks.org/problems/convert-string-to-lowercase/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ConvertStringToLowerCase.cpp) |
+| 18 | [Even Positioned Characters](https://practice.geeksforgeeks.org/problems/for-loop-2/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_EvenPositionedCharacters.cpp) |
+| 19 | [First Occurence](https://practice.geeksforgeeks.org/problems/implement-strstr/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstOccurence.cpp) |
+| 20 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PrintNTo1WithoutLoop.cpp) |
+| 21 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RemoveSpaces.cpp) |
 <!-- COMMITDSA_END -->
