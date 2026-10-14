@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1901-find-a-peak-element-ii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## String
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
@@ -226,10 +229,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0050-powx-n) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0022-generate-parentheses) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
 
 <!-- COMMITDSA_START -->
