@@ -271,8 +271,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 24 | 1 | 17 | 0 | 6 |
-| **Total** | **24** | **1** | **17** | **0** | **6** |
+| GeeksforGeeks | 25 | 1 | 18 | 0 | 6 |
+| **Total** | **25** | **1** | **18** | **0** | **6** |
 
 ## Solved Problems
 
@@ -294,12 +294,13 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 14 | [Raise to Power of Its Own Reverse](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RaiseToPowerOfItsOwnReverse.cpp) |
 | 15 | [Recursively Sum n Numbers](https://practice.geeksforgeeks.org/problems/recursively-sum-n-numbers/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RecursivelySumNNumbers.cpp) |
 | 16 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RemoveVowels.cpp) |
-| 17 | [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SubsetSums.cpp) |
-| 18 | [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_TowerOfHanoi.cpp) |
-| 19 | [1 to n Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/1_ToNWithoutLoop.cpp) |
-| 20 | [Convert String to Lower Case](https://practice.geeksforgeeks.org/problems/convert-string-to-lowercase/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ConvertStringToLowerCase.cpp) |
-| 21 | [Even Positioned Characters](https://practice.geeksforgeeks.org/problems/for-loop-2/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_EvenPositionedCharacters.cpp) |
-| 22 | [First Occurence](https://practice.geeksforgeeks.org/problems/implement-strstr/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstOccurence.cpp) |
-| 23 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PrintNTo1WithoutLoop.cpp) |
-| 24 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RemoveSpaces.cpp) |
+| 17 | [Set Rightmost Unset Bit](https://practice.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SetRightmostUnsetBit.cpp) |
+| 18 | [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SubsetSums.cpp) |
+| 19 | [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_TowerOfHanoi.cpp) |
+| 20 | [1 to n Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/1_ToNWithoutLoop.cpp) |
+| 21 | [Convert String to Lower Case](https://practice.geeksforgeeks.org/problems/convert-string-to-lowercase/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ConvertStringToLowerCase.cpp) |
+| 22 | [Even Positioned Characters](https://practice.geeksforgeeks.org/problems/for-loop-2/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_EvenPositionedCharacters.cpp) |
+| 23 | [First Occurence](https://practice.geeksforgeeks.org/problems/implement-strstr/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstOccurence.cpp) |
+| 24 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PrintNTo1WithoutLoop.cpp) |
+| 25 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RemoveSpaces.cpp) |
 <!-- COMMITDSA_END -->
