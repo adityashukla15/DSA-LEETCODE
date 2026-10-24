@@ -271,8 +271,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 29 | 1 | 19 | 0 | 9 |
-| **Total** | **29** | **1** | **19** | **0** | **9** |
+| GeeksforGeeks | 31 | 1 | 19 | 0 | 11 |
+| **Total** | **31** | **1** | **19** | **0** | **11** |
 
 ## Solved Problems
 
@@ -299,12 +299,14 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 19 | [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SubsetSums.cpp) |
 | 20 | [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_TowerOfHanoi.cpp) |
 | 21 | [1 to n Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/1_ToNWithoutLoop.cpp) |
-| 22 | [Binary To Gray Code](https://practice.geeksforgeeks.org/problems/gray-code-1587115620/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_BinaryToGrayCode.cpp) |
-| 23 | [Convert String to Lower Case](https://practice.geeksforgeeks.org/problems/convert-string-to-lowercase/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ConvertStringToLowerCase.cpp) |
-| 24 | [Even Positioned Characters](https://practice.geeksforgeeks.org/problems/for-loop-2/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_EvenPositionedCharacters.cpp) |
-| 25 | [First Occurence](https://practice.geeksforgeeks.org/problems/implement-strstr/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstOccurence.cpp) |
-| 26 | [One Odd Occuring](https://practice.geeksforgeeks.org/problems/find-the-odd-occurence4820/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_OneOddOccuring.cpp) |
-| 27 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PrintNTo1WithoutLoop.cpp) |
-| 28 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RemoveSpaces.cpp) |
-| 29 | [Set kth Bit](https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SetKthBit.cpp) |
+| 22 | [Binary Representation](https://practice.geeksforgeeks.org/problems/binary-representation5003/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_BinaryRepresentation.cpp) |
+| 23 | [Binary To Gray Code](https://practice.geeksforgeeks.org/problems/gray-code-1587115620/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_BinaryToGrayCode.cpp) |
+| 24 | [Convert String to Lower Case](https://practice.geeksforgeeks.org/problems/convert-string-to-lowercase/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ConvertStringToLowerCase.cpp) |
+| 25 | [Even Positioned Characters](https://practice.geeksforgeeks.org/problems/for-loop-2/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_EvenPositionedCharacters.cpp) |
+| 26 | [First Occurence](https://practice.geeksforgeeks.org/problems/implement-strstr/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstOccurence.cpp) |
+| 27 | [One Odd Occuring](https://practice.geeksforgeeks.org/problems/find-the-odd-occurence4820/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_OneOddOccuring.cpp) |
+| 28 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PrintNTo1WithoutLoop.cpp) |
+| 29 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RemoveSpaces.cpp) |
+| 30 | [Set kth Bit](https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SetKthBit.cpp) |
+| 31 | [Unset Kth Bit](https://practice.geeksforgeeks.org/problems/replace-the-bit3212/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_UnsetKthBit.cpp) |
 <!-- COMMITDSA_END -->
