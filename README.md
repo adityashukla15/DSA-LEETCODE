@@ -271,8 +271,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 32 | 1 | 20 | 0 | 11 |
-| **Total** | **32** | **1** | **20** | **0** | **11** |
+| GeeksforGeeks | 33 | 1 | 21 | 0 | 11 |
+| **Total** | **33** | **1** | **21** | **0** | **11** |
 
 ## Solved Problems
 
@@ -291,23 +291,24 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 11 | [Longest Word](https://practice.geeksforgeeks.org/problems/display-longest-name0853/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_LongestWord.cpp) |
 | 12 | [Lucky Numbers](https://practice.geeksforgeeks.org/problems/lucky-numbers2911/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_LuckyNumbers.cpp) |
 | 13 | [Nth Fibonacci Using Recursion](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_NthFibonacciUsingRecursion.cpp) |
-| 14 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_PowerUsingRecursion.cpp) |
-| 15 | [Raise to Power of Its Own Reverse](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RaiseToPowerOfItsOwnReverse.cpp) |
-| 16 | [Recursively Sum n Numbers](https://practice.geeksforgeeks.org/problems/recursively-sum-n-numbers/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RecursivelySumNNumbers.cpp) |
-| 17 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RemoveVowels.cpp) |
-| 18 | [Repeated Integer Division by 2](https://practice.geeksforgeeks.org/problems/geek-and-coffee-shop5721/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RepeatedIntegerDivisionBy2.cpp) |
-| 19 | [Set Rightmost Unset Bit](https://practice.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SetRightmostUnsetBit.cpp) |
-| 20 | [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SubsetSums.cpp) |
-| 21 | [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_TowerOfHanoi.cpp) |
-| 22 | [1 to n Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/1_ToNWithoutLoop.cpp) |
-| 23 | [Binary Representation](https://practice.geeksforgeeks.org/problems/binary-representation5003/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_BinaryRepresentation.cpp) |
-| 24 | [Binary To Gray Code](https://practice.geeksforgeeks.org/problems/gray-code-1587115620/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_BinaryToGrayCode.cpp) |
-| 25 | [Convert String to Lower Case](https://practice.geeksforgeeks.org/problems/convert-string-to-lowercase/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ConvertStringToLowerCase.cpp) |
-| 26 | [Even Positioned Characters](https://practice.geeksforgeeks.org/problems/for-loop-2/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_EvenPositionedCharacters.cpp) |
-| 27 | [First Occurence](https://practice.geeksforgeeks.org/problems/implement-strstr/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstOccurence.cpp) |
-| 28 | [One Odd Occuring](https://practice.geeksforgeeks.org/problems/find-the-odd-occurence4820/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_OneOddOccuring.cpp) |
-| 29 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PrintNTo1WithoutLoop.cpp) |
-| 30 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RemoveSpaces.cpp) |
-| 31 | [Set kth Bit](https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SetKthBit.cpp) |
-| 32 | [Unset Kth Bit](https://practice.geeksforgeeks.org/problems/replace-the-bit3212/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_UnsetKthBit.cpp) |
+| 14 | [Odd or Even](https://practice.geeksforgeeks.org/problems/odd-or-even3618/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_OddOrEven.cpp) |
+| 15 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_PowerUsingRecursion.cpp) |
+| 16 | [Raise to Power of Its Own Reverse](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RaiseToPowerOfItsOwnReverse.cpp) |
+| 17 | [Recursively Sum n Numbers](https://practice.geeksforgeeks.org/problems/recursively-sum-n-numbers/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RecursivelySumNNumbers.cpp) |
+| 18 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RemoveVowels.cpp) |
+| 19 | [Repeated Integer Division by 2](https://practice.geeksforgeeks.org/problems/geek-and-coffee-shop5721/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RepeatedIntegerDivisionBy2.cpp) |
+| 20 | [Set Rightmost Unset Bit](https://practice.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SetRightmostUnsetBit.cpp) |
+| 21 | [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SubsetSums.cpp) |
+| 22 | [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_TowerOfHanoi.cpp) |
+| 23 | [1 to n Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/1_ToNWithoutLoop.cpp) |
+| 24 | [Binary Representation](https://practice.geeksforgeeks.org/problems/binary-representation5003/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_BinaryRepresentation.cpp) |
+| 25 | [Binary To Gray Code](https://practice.geeksforgeeks.org/problems/gray-code-1587115620/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_BinaryToGrayCode.cpp) |
+| 26 | [Convert String to Lower Case](https://practice.geeksforgeeks.org/problems/convert-string-to-lowercase/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ConvertStringToLowerCase.cpp) |
+| 27 | [Even Positioned Characters](https://practice.geeksforgeeks.org/problems/for-loop-2/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_EvenPositionedCharacters.cpp) |
+| 28 | [First Occurence](https://practice.geeksforgeeks.org/problems/implement-strstr/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstOccurence.cpp) |
+| 29 | [One Odd Occuring](https://practice.geeksforgeeks.org/problems/find-the-odd-occurence4820/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_OneOddOccuring.cpp) |
+| 30 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PrintNTo1WithoutLoop.cpp) |
+| 31 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RemoveSpaces.cpp) |
+| 32 | [Set kth Bit](https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SetKthBit.cpp) |
+| 33 | [Unset Kth Bit](https://practice.geeksforgeeks.org/problems/replace-the-bit3212/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_UnsetKthBit.cpp) |
 <!-- COMMITDSA_END -->
