@@ -271,44 +271,45 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 33 | 1 | 21 | 0 | 11 |
-| **Total** | **33** | **1** | **21** | **0** | **11** |
+| GeeksforGeeks | 34 | 2 | 21 | 0 | 11 |
+| **Total** | **34** | **2** | **21** | **0** | **11** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [Reverse Words](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ReverseWords.cpp) |
-| 2 | [Binary Substrings with Corners as 1](https://practice.geeksforgeeks.org/problems/binary-string-1587115620/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_BinarySubstringsWithCornersAs1.cpp) |
-| 3 | [Check for Binary String](https://practice.geeksforgeeks.org/problems/check-for-binary/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_CheckForBinaryString.cpp) |
-| 4 | [Check if All Bits Set](https://practice.geeksforgeeks.org/problems/check-set-bits5408/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_CheckIfAllBitsSet.cpp) |
-| 5 | [Check K-th Bit](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_CheckKThBit.cpp) |
-| 6 | [Count Digits in Number](https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_CountDigitsInNumber.cpp) |
-| 7 | [Decreasing Increasing Pattern](https://practice.geeksforgeeks.org/problems/print-pattern3549/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_DecreasingIncreasingPattern.cpp) |
-| 8 | [First n Fibonacci using Recursion](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FirstNFibonacciUsingRecursion.cpp) |
-| 9 | [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FriendsPairingProblem.cpp) |
-| 10 | [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_JosephusProblem.cpp) |
-| 11 | [Longest Word](https://practice.geeksforgeeks.org/problems/display-longest-name0853/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_LongestWord.cpp) |
-| 12 | [Lucky Numbers](https://practice.geeksforgeeks.org/problems/lucky-numbers2911/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_LuckyNumbers.cpp) |
-| 13 | [Nth Fibonacci Using Recursion](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_NthFibonacciUsingRecursion.cpp) |
-| 14 | [Odd or Even](https://practice.geeksforgeeks.org/problems/odd-or-even3618/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_OddOrEven.cpp) |
-| 15 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_PowerUsingRecursion.cpp) |
-| 16 | [Raise to Power of Its Own Reverse](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RaiseToPowerOfItsOwnReverse.cpp) |
-| 17 | [Recursively Sum n Numbers](https://practice.geeksforgeeks.org/problems/recursively-sum-n-numbers/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RecursivelySumNNumbers.cpp) |
-| 18 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RemoveVowels.cpp) |
-| 19 | [Repeated Integer Division by 2](https://practice.geeksforgeeks.org/problems/geek-and-coffee-shop5721/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RepeatedIntegerDivisionBy2.cpp) |
-| 20 | [Set Rightmost Unset Bit](https://practice.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SetRightmostUnsetBit.cpp) |
-| 21 | [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SubsetSums.cpp) |
-| 22 | [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_TowerOfHanoi.cpp) |
-| 23 | [1 to n Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/1_ToNWithoutLoop.cpp) |
-| 24 | [Binary Representation](https://practice.geeksforgeeks.org/problems/binary-representation5003/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_BinaryRepresentation.cpp) |
-| 25 | [Binary To Gray Code](https://practice.geeksforgeeks.org/problems/gray-code-1587115620/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_BinaryToGrayCode.cpp) |
-| 26 | [Convert String to Lower Case](https://practice.geeksforgeeks.org/problems/convert-string-to-lowercase/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ConvertStringToLowerCase.cpp) |
-| 27 | [Even Positioned Characters](https://practice.geeksforgeeks.org/problems/for-loop-2/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_EvenPositionedCharacters.cpp) |
-| 28 | [First Occurence](https://practice.geeksforgeeks.org/problems/implement-strstr/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstOccurence.cpp) |
-| 29 | [One Odd Occuring](https://practice.geeksforgeeks.org/problems/find-the-odd-occurence4820/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_OneOddOccuring.cpp) |
-| 30 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PrintNTo1WithoutLoop.cpp) |
-| 31 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RemoveSpaces.cpp) |
-| 32 | [Set kth Bit](https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SetKthBit.cpp) |
-| 33 | [Unset Kth Bit](https://practice.geeksforgeeks.org/problems/replace-the-bit3212/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_UnsetKthBit.cpp) |
+| 1 | [Count Set Bits](https://practice.geeksforgeeks.org/problems/set-bits0143/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_CountSetBits.cpp) |
+| 2 | [Reverse Words](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1) | GeeksforGeeks | Easy | C_CPP | [Code](./GFG/Easy/0_ReverseWords.cpp) |
+| 3 | [Binary Substrings with Corners as 1](https://practice.geeksforgeeks.org/problems/binary-string-1587115620/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_BinarySubstringsWithCornersAs1.cpp) |
+| 4 | [Check for Binary String](https://practice.geeksforgeeks.org/problems/check-for-binary/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_CheckForBinaryString.cpp) |
+| 5 | [Check if All Bits Set](https://practice.geeksforgeeks.org/problems/check-set-bits5408/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_CheckIfAllBitsSet.cpp) |
+| 6 | [Check K-th Bit](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_CheckKThBit.cpp) |
+| 7 | [Count Digits in Number](https://practice.geeksforgeeks.org/problems/count-total-digits-in-a-number/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_CountDigitsInNumber.cpp) |
+| 8 | [Decreasing Increasing Pattern](https://practice.geeksforgeeks.org/problems/print-pattern3549/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_DecreasingIncreasingPattern.cpp) |
+| 9 | [First n Fibonacci using Recursion](https://practice.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FirstNFibonacciUsingRecursion.cpp) |
+| 10 | [Friends Pairing Problem](https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_FriendsPairingProblem.cpp) |
+| 11 | [Josephus problem](https://practice.geeksforgeeks.org/problems/josephus-problem/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_JosephusProblem.cpp) |
+| 12 | [Longest Word](https://practice.geeksforgeeks.org/problems/display-longest-name0853/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_LongestWord.cpp) |
+| 13 | [Lucky Numbers](https://practice.geeksforgeeks.org/problems/lucky-numbers2911/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_LuckyNumbers.cpp) |
+| 14 | [Nth Fibonacci Using Recursion](https://practice.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_NthFibonacciUsingRecursion.cpp) |
+| 15 | [Odd or Even](https://practice.geeksforgeeks.org/problems/odd-or-even3618/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_OddOrEven.cpp) |
+| 16 | [Power Using Recursion](https://practice.geeksforgeeks.org/problems/power-using-recursion/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_PowerUsingRecursion.cpp) |
+| 17 | [Raise to Power of Its Own Reverse](https://practice.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RaiseToPowerOfItsOwnReverse.cpp) |
+| 18 | [Recursively Sum n Numbers](https://practice.geeksforgeeks.org/problems/recursively-sum-n-numbers/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RecursivelySumNNumbers.cpp) |
+| 19 | [Remove Vowels](https://practice.geeksforgeeks.org/problems/remove-vowels-from-string1446/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RemoveVowels.cpp) |
+| 20 | [Repeated Integer Division by 2](https://practice.geeksforgeeks.org/problems/geek-and-coffee-shop5721/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_RepeatedIntegerDivisionBy2.cpp) |
+| 21 | [Set Rightmost Unset Bit](https://practice.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SetRightmostUnsetBit.cpp) |
+| 22 | [Subset Sums](https://practice.geeksforgeeks.org/problems/subset-sums2234/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_SubsetSums.cpp) |
+| 23 | [Tower Of Hanoi](https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_TowerOfHanoi.cpp) |
+| 24 | [1 to n Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/1_ToNWithoutLoop.cpp) |
+| 25 | [Binary Representation](https://practice.geeksforgeeks.org/problems/binary-representation5003/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_BinaryRepresentation.cpp) |
+| 26 | [Binary To Gray Code](https://practice.geeksforgeeks.org/problems/gray-code-1587115620/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_BinaryToGrayCode.cpp) |
+| 27 | [Convert String to Lower Case](https://practice.geeksforgeeks.org/problems/convert-string-to-lowercase/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ConvertStringToLowerCase.cpp) |
+| 28 | [Even Positioned Characters](https://practice.geeksforgeeks.org/problems/for-loop-2/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_EvenPositionedCharacters.cpp) |
+| 29 | [First Occurence](https://practice.geeksforgeeks.org/problems/implement-strstr/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_FirstOccurence.cpp) |
+| 30 | [One Odd Occuring](https://practice.geeksforgeeks.org/problems/find-the-odd-occurence4820/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_OneOddOccuring.cpp) |
+| 31 | [Print n to 1 Without Loop](https://practice.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_PrintNTo1WithoutLoop.cpp) |
+| 32 | [Remove Spaces](https://practice.geeksforgeeks.org/problems/remove-spaces0128/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_RemoveSpaces.cpp) |
+| 33 | [Set kth Bit](https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SetKthBit.cpp) |
+| 34 | [Unset Kth Bit](https://practice.geeksforgeeks.org/problems/replace-the-bit3212/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_UnsetKthBit.cpp) |
 <!-- COMMITDSA_END -->
