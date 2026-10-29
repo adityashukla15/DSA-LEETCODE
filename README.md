@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0050-powx-n) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0231-power-of-two) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
