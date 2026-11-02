@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
