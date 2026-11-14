@@ -331,12 +331,13 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 1 | 0 | 0 | 0 | 1 |
-| **Total** | **1** | **0** | **0** | **0** | **1** |
+| GeeksforGeeks | 2 | 0 | 0 | 0 | 2 |
+| **Total** | **2** | **0** | **0** | **0** | **2** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Length of Circular Linked List](https://practice.geeksforgeeks.org/problems/length-of-circular-linked-list/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LengthOfCircularLinkedList.cpp) |
+| 2 | [Size of Doubly Linked List](https://practice.geeksforgeeks.org/problems/size-of-doubly-linked-list--114556/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SizeOfDoublyLinkedList.cpp) |
 <!-- COMMITDSA_END -->
