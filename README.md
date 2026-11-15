@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0260-single-number-iii) |
 | [0410-split-array-largest-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0704-binary-search) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [1552-magnetic-force-between-two-balls](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2195-append-k-integers-with-minimal-sum) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## Interactive
 |  |
