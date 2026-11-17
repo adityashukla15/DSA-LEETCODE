@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0073-set-matrix-zeroes) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Counting
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0860-lemonade-change) |
