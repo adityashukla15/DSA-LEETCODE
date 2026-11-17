@@ -341,13 +341,14 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 2 | 0 | 0 | 0 | 2 |
-| **Total** | **2** | **0** | **0** | **0** | **2** |
+| GeeksforGeeks | 3 | 0 | 1 | 0 | 2 |
+| **Total** | **3** | **0** | **1** | **0** | **2** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
-| 1 | [Length of Circular Linked List](https://practice.geeksforgeeks.org/problems/length-of-circular-linked-list/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LengthOfCircularLinkedList.cpp) |
-| 2 | [Size of Doubly Linked List](https://practice.geeksforgeeks.org/problems/size-of-doubly-linked-list--114556/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SizeOfDoublyLinkedList.cpp) |
+| 1 | [Shortest Job first](https://practice.geeksforgeeks.org/problems/shortest-job-first/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_ShortestJobFirst.cpp) |
+| 2 | [Length of Circular Linked List](https://practice.geeksforgeeks.org/problems/length-of-circular-linked-list/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LengthOfCircularLinkedList.cpp) |
+| 3 | [Size of Doubly Linked List](https://practice.geeksforgeeks.org/problems/size-of-doubly-linked-list--114556/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SizeOfDoublyLinkedList.cpp) |
 <!-- COMMITDSA_END -->
