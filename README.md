@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0633-sum-of-square-numbers) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2195-append-k-integers-with-minimal-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/2195-append-k-integers-with-minimal-sum) |
 ## String
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Quicksort
 |  |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/adityashukla15/DSA-LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
 
