@@ -11,30 +11,30 @@ using namespace std;
 class myStack {
 
 private:
-    unique_ptr<int[]> arr;
+    vector<int> arr;
     int capacity;
     int topIndex;
 
 public:
 
+    // Constructor
     myStack(int n) {
-        if (n <= 0) {
-            throw invalid_argument("Capacity must be positive");
-        }
-
         capacity = n;
-        arr = make_unique<int[]>(capacity);
+        arr.resize(capacity);
         topIndex = -1;
     }
 
+    // Check if stack is empty
     bool isEmpty() {
         return topIndex == -1;
     }
 
+    // Check if stack is full
     bool isFull() {
         return topIndex == capacity - 1;
     }
 
+    // Insert element into stack
     void push(int x) {
         if (isFull()) {
             return;
@@ -43,6 +43,7 @@ public:
         arr[++topIndex] = x;
     }
 
+    // Remove top element
     void pop() {
         if (isEmpty()) {
             return;
@@ -51,6 +52,7 @@ public:
         topIndex--;
     }
 
+    // Return top element
     int peek() {
         if (isEmpty()) {
             return -1;
