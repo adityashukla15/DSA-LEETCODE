@@ -376,8 +376,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 6 | 0 | 2 | 0 | 4 |
-| **Total** | **6** | **0** | **2** | **0** | **4** |
+| GeeksforGeeks | 7 | 0 | 2 | 0 | 5 |
+| **Total** | **7** | **0** | **2** | **0** | **5** |
 
 ## Solved Problems
 
@@ -387,6 +387,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 2 | [Shortest Job first](https://practice.geeksforgeeks.org/problems/shortest-job-first/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_ShortestJobFirst.cpp) |
 | 3 | [Implement Stack using Array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ImplementStackUsingArray.cpp) |
 | 4 | [Length of Circular Linked List](https://practice.geeksforgeeks.org/problems/length-of-circular-linked-list/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LengthOfCircularLinkedList.cpp) |
-| 5 | [Size of Doubly Linked List](https://practice.geeksforgeeks.org/problems/size-of-doubly-linked-list--114556/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SizeOfDoublyLinkedList.cpp) |
-| 6 | [Stack using Linked List](https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_StackUsingLinkedList.cpp) |
+| 5 | [Queue using Linked List](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_QueueUsingLinkedList.cpp) |
+| 6 | [Size of Doubly Linked List](https://practice.geeksforgeeks.org/problems/size-of-doubly-linked-list--114556/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SizeOfDoublyLinkedList.cpp) |
+| 7 | [Stack using Linked List](https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_StackUsingLinkedList.cpp) |
 <!-- COMMITDSA_END -->
