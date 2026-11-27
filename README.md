@@ -376,8 +376,8 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 0 | 0 | 0 | 0 | - |
-| GeeksforGeeks | 4 | 0 | 2 | 0 | 2 |
-| **Total** | **4** | **0** | **2** | **0** | **2** |
+| GeeksforGeeks | 5 | 0 | 2 | 0 | 3 |
+| **Total** | **5** | **0** | **2** | **0** | **3** |
 
 ## Solved Problems
 
@@ -385,6 +385,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Job Sequencing Problem](https://practice.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_JobSequencingProblem.cpp) |
 | 2 | [Shortest Job first](https://practice.geeksforgeeks.org/problems/shortest-job-first/1) | GeeksforGeeks | Medium | C_CPP | [Code](./GFG/Medium/0_ShortestJobFirst.cpp) |
-| 3 | [Length of Circular Linked List](https://practice.geeksforgeeks.org/problems/length-of-circular-linked-list/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LengthOfCircularLinkedList.cpp) |
-| 4 | [Size of Doubly Linked List](https://practice.geeksforgeeks.org/problems/size-of-doubly-linked-list--114556/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SizeOfDoublyLinkedList.cpp) |
+| 3 | [Implement Stack using Array](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_ImplementStackUsingArray.cpp) |
+| 4 | [Length of Circular Linked List](https://practice.geeksforgeeks.org/problems/length-of-circular-linked-list/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_LengthOfCircularLinkedList.cpp) |
+| 5 | [Size of Doubly Linked List](https://practice.geeksforgeeks.org/problems/size-of-doubly-linked-list--114556/1) | GeeksforGeeks | Basic | C_CPP | [Code](./GFG/Basic/0_SizeOfDoublyLinkedList.cpp) |
 <!-- COMMITDSA_END -->
